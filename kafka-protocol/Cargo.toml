@@ -1,0 +1,14 @@
+[package]
+name = "kafka-protocol"
+version = "0.1.0"
+categories = ["asynchronous", "network-programming", "web-programming"]
+description = "Implementation of the kafka protocol in Rust for kafka-clients"
+edition = "2021"
+rust-version = "1.56"
+homepage = "https://github.com/faveroferreira/kafka-clients"
+keywords = ["kafka", "kafka-rust"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/faveroferreira/kafka-clients"
+
+[dependencies]

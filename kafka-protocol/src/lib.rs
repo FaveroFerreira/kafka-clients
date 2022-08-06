@@ -1,3 +1,6 @@
+mod connection;
+mod produce;
+
 #[cfg(test)]
 mod tests {
     #[test]

@@ -1,0 +1,14 @@
+[package]
+name = "kafka-clients"
+version = "0.1.0"
+categories = ["asynchronous", "network-programming", "web-programming"]
+description = "Apache Kafka clients written in plain Rust that focuses on simplicity"
+edition = "2021"
+rust-version = "1.56"
+homepage = "https://github.com/faveroferreira/kafka-clients"
+keywords = ["kafka", "kafka-rust"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/faveroferreira/kafka-clients"
+
+[dependencies]
